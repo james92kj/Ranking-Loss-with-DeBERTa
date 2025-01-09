@@ -1,0 +1,14 @@
+transformers
+hydra-core
+tqdm
+pandas
+numpy
+torchmetrics
+bitsandbytes
+protobuf
+datasets
+tiktoken
+sentencepiece
+accelerate
+wandb
+pynyml
