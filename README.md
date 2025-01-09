@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## Data Directory
 
-Download `train_essays.csv` from [[data source link](https://drive.google.com/file/d/10yU_Dk1BcSV3s72Qz648-_pnG8dAEUnA/view?usp=drive_link)] and place it in this directory.
+Download `train_essays.csv` from [[data](https://drive.google.com/file/d/10yU_Dk1BcSV3s72Qz648-_pnG8dAEUnA/view?usp=drive_link)] and place it in this directory.
 
 
 ## Configuration
